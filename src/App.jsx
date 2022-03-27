@@ -345,6 +345,7 @@ const App = () => {
             <div className="left">
               <p className="title">🔨👷 Buidlers Name Service</p>
               <p className="subtitle">Your immortal API on the blockchain!</p>
+              <p><a href="https://testnets.opensea.io/collection/buidlers-name-service-v2" className="footer-text" target="_blank" rel="noreferrer">Check the collection on OpenSea</a></p>
             </div>
             {/* Display a logo and wallet connection status*/}
             <div className="right">
